@@ -33,53 +33,6 @@
 
 ---
 
-## 💻 Tech Stack
-
-### Programming Languages
-- 🐍 Python
-- 🗄️ SQL
-
-### Data Science & Machine Learning
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- XGBoost
-
-### Data Visualization
-- Matplotlib
-- Seaborn
-- Plotly
-- Power BI
-
-### AI & LLM Tools
-- OpenAI API
-- Hugging Face
-- LangChain
-- LangGraph
-- Ollama
-- Streamlit
-- FastAPI
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- FAISS
-- ChromaDB
-
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
-- Jupyter Notebook
-- GitHub Actions
-
----
-
 ## 🎯 Goals
 
 - 🚀 Build Production-Ready AI Applications
@@ -98,11 +51,6 @@
 ![](https://streak-stats.demolab.com/?user=YashJain-25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashJain-25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
