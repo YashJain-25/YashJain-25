@@ -134,18 +134,12 @@ Machine Learning  Deep Learning  Generative AI   MLOps
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashJain-25&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashJain-25&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=YashJain-25&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YashJain-25&theme=github-dark-blue&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashJain-25&theme=tokyo-night&hide_border=true" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashJain-25&theme=github-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
