@@ -1,64 +1,210 @@
-# Hi there 👋, I'm **Yash Jain**
+<div align="center">
 
-### 🚀 Aspiring Data Scientist | Machine Learning Engineer | Python Developer
+# 👋 Hi, I'm **Yash Jain**
 
-💡 Passionate about transforming data into actionable insights and building intelligent AI-powered applications. I enjoy solving real-world problems with **Data Science, Machine Learning, Deep Learning, and Generative AI** while continuously learning emerging technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;Python+Developer;Generative+AI+Enthusiast;Open+Source+Contributor" />
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+# 💫 About Me
 
-- 🤖 Generative AI (LLMs & AI Agents)
-- 🧠 Deep Learning
-- 📊 Data Science & Advanced Analytics
+🚀 Aspiring **Data Scientist**, **Machine Learning Engineer**, and **Python Developer** passionate about building intelligent AI-powered applications.
+
+- 🔭 Working on **Machine Learning & Generative AI Projects**
+- 🌱 Currently learning **LLMs, AI Agents, RAG, LangChain, LangGraph & MLOps**
+- 💬 Ask me about **Python, Machine Learning, Data Science**
+- 🤝 Open to **Open Source Collaboration**
+- 📫 Reach me at **your@email.com**
+- ⚡ Fun fact: *Coffee + Python = Productivity ☕🐍*
+
+---
+
+# 🌱 Currently Exploring
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 💬 Natural Language Processing (NLP)
-- 👁️ Computer Vision
-- ⚡ LangChain & LangGraph
-- 🗄️ Vector Databases (FAISS, ChromaDB, Pinecone)
-- ☁️ MLOps & Model Deployment
-- 🐳 Docker & Containerization
-- ☁️ Cloud Computing (AWS, Azure, GCP)
+- ⚡ LangChain
+- 🕸 LangGraph
+- 🤖 AI Agents
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 💬 NLP
+- 👁 Computer Vision
+- ☁️ MLOps
+- 🐳 Docker
+- ☁️ AWS
+- 📈 Data Engineering
 
 ---
 
-## 🔭 Currently Working On
+# 🚀 Current Projects
 
-- 🚀 End-to-End Machine Learning Projects
-- 🤖 AI & LLM-powered Applications
-- 📊 Interactive Data Analytics Dashboards
-- 🌐 Full-Stack AI Applications
-- 🧩 Open Source Contributions
-- 📚 Building My Data Science Portfolio
+- 🤖 AI Chatbots
+- 📊 Data Analytics Dashboards
+- 🧠 Machine Learning Applications
+- 📚 Data Science Portfolio
+- 🌐 Full Stack AI Apps
+- 🔥 Open Source Contributions
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
+
+## 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+
+## 🤖 AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+## 📚 RAG
+
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-teal?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C4CC?style=for-the-badge)
+
+## 📈 Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+## 🌐 Web
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+
+## 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+## ☁ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud)
 
 ---
 
-## 🎯 Goals
+# 📊 GitHub Stats
 
-- 🚀 Build Production-Ready AI Applications
-- 🤖 Master Generative AI & LLMs
-- ☁️ Learn MLOps & Cloud Deployment
-- 🌍 Contribute to Open Source
-- 📈 Continuously Improve My Skills
+<p align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yash-jain25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jain.yashmailyou@gmail.com) 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YashJain-25&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=YashJain-25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashJain-25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YashJain-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=YashJain-25&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome)](https://YOUR_PORTFOLIO.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+
+---
+
+# 💸 Support My Work
+
+If you find my projects helpful, consider supporting me.
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🐛 Report issues
+
+💡 Suggest new ideas
+
+📢 Share my work
+
+❤️ Thank you for supporting open source!
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+⭐ Don't forget to star my repositories if you find them useful.
+
+</div>
