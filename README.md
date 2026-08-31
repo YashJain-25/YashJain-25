@@ -1,128 +1,175 @@
+# Hi, I'm Yash Jain
+
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Generative+AI+Developer;AI+Application+Builder" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:1E40AF&height=180&section=header&text=Yash%20Jain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Generative%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
+Passionate about building intelligent applications using **Data Science**, **Machine Learning**, **Deep Learning**, and **Generative AI**. I enjoy solving real-world problems with data and continuously learning modern AI technologies.
 
-<a href="https://www.linkedin.com/in/yash-jain25/">
-  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
+---
+
+# About Me
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                  DATA SCIENCE WORKFLOW                       │
+└──────────────────────────────────────────────────────────────┘
+
+ Projects
+    │
+    ├── Building End-to-End Machine Learning Solutions
+    │
+    ▼
+ Learning
+    ├── Large Language Models (LLMs)
+    ├── Retrieval-Augmented Generation (RAG)
+    └── AI Agents
+    │
+    ▼
+ Engineering
+    ├── MLOps
+    ├── Model Deployment
+    └── Cloud AI
+    │
+    ▼
+ Mission
+    ├── Solving Real-World AI Problems
+    ├── Open Source Collaboration
+    └── Continuous Learning
+```
+
+# Current Focus
+
+```text
+                    Artificial Intelligence
+                             │
+      ┌──────────────┬────────┴────────┬──────────────┐
+      │              │                 │              │
+Machine Learning  Deep Learning  Generative AI   MLOps
+      │              │                 │              │
+      │              │          ┌──────┴──────┐       │
+      │              │          │             │       │
+     NLP     Computer Vision   LLMs         RAG   Cloud AI
+                                    │
+                                    ▼
+                               AI Agents
+```
+
+---
+
+# Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+
+---
+
+## Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+
+---
+
+## Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+---
+
+## Vector Databases
+
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=YashJain-25&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashJain-25&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yash-jain25/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:jain.yashmailyou@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/YashJain-25">
-  <img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br><br>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=1D4ED8&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+solutions;Working+with+LLMs+and+RAG+pipelines;Exploring+autonomous+AI+agents;Always+learning%2C+always+shipping" />
+---
 
+## Contribution Snake
+
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" style="border-radius: 50%;"/>
 </div>
 
-<br>
-
-## 👋 About Me
-
-I build intelligent applications at the intersection of **data science**, **machine learning**, and **generative AI**. My work spans end-to-end ML pipelines, LLM-powered systems, and applied research — with a focus on writing production-ready code and shipping real solutions, not just prototypes.
-
-- 🔭 Currently deepening expertise in **large language models**, **retrieval-augmented generation (RAG)**, and **autonomous AI agents**
-- 🌱 Building a strong foundation in **MLOps** and **cloud deployment**
-- 💬 Happy to talk about ML systems design, LLM applications, or agentic architectures
-- 📫 Reach me at **jain.yashmailyou@gmail.com**
-
-<br>
-
-## 🛠️ Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
-
-### Languages
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="42"/>
-
-</td>
-<td valign="top" width="33%">
-
-### Data Science
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" height="42"/> <img src="https://img.shields.io/badge/-Plotly-1E40AF?style=flat-square&logo=plotly&logoColor=white" height="28"/>
-
-</td>
-<td valign="top" width="33%">
-
-### Machine Learning
-<img src="https://img.shields.io/badge/-Scikit--learn-1D4ED8?style=flat-square&logo=scikitlearn&logoColor=white" height="28"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" height="42"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### Generative AI
-<img src="https://img.shields.io/badge/-OpenAI-2563EB?style=flat-square&logo=openai&logoColor=white" height="28"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" height="42"/>
-
-</td>
-<td valign="top" width="33%">
-
-### Vector Databases
-<img src="https://img.shields.io/badge/-ChromaDB-3B82F6?style=flat-square&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-Pinecone-3B82F6?style=flat-square&logo=pinecone&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/-FAISS-3B82F6?style=flat-square&logoColor=white" height="28"/>
-
-</td>
-<td valign="top" width="33%">
-
-### Backend & Deployment
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="42"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### Databases
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="42"/>
-
-</td>
-<td valign="top" width="33%">
-
-### Tools
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" height="42"/>
-
-</td>
-<td valign="top" width="33%">
-
-### Notebooks & Apps
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" height="42"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="42"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Analytics
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YashJain-25&show_icons=true&hide_border=true&count_private=true&title_color=1D4ED8&icon_color=1D4ED8&text_color=333333&bg_color=00000000" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashJain-25&hide_border=true&background=00000000&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8" width="49%" />
+### *"Turning Data into Intelligent Solutions with AI."*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashJain-25&hide_border=true&bg_color=00000000&color=1D4ED8&line=1D4ED8&point=1E40AF" width="100%" />
-
-</div>
-
-<br>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to discussing data science, machine learning, and generative AI projects — or potential collaborations.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jain25/)
-[![Email](https://img.shields.io/badge/Send_an_Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jain.yashmailyou@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashJain-25)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:1E40AF&height=100&section=footer" width="100%"/>
+Thanks for visiting my profile!
 
 </div>
